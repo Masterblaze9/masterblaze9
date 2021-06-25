@@ -1,4 +1,4 @@
-### Hi there/Olá 👋
+### Hi there/Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 I´m Rui
   -I live in :portugal:<br>
   -:school: I´m Studing Web and Mobile Apps Developmant in Viseu on ESTGV<br>
@@ -7,6 +7,8 @@ I´m Rui
   -I came from another area in my secundary school, I finished my 12th year in Laboratiorial Analisys :test_tube:
 
 <hr>
+
+
 
 Contact me:<br><br>
 <a href="https://www.linkedin.com/in/rui-sim%C3%B5es-0001441b7/" target="_blank">
