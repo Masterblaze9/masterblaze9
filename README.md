@@ -25,19 +25,27 @@ Contact me:<br><br>
 My Skills
 
 <br>
-  <img align="left" alt="Java-Icon" height="50" width="60" style="max-width:100%" style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img>
-
+<div>
+ <img align="left" alt="Python-Icon" style="display:inline-block" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
   
-  <img align="left" alt="Java-Icon" height="50" width="60" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
+  <img align="left" alt="Android-Icon" style="display:inline-block" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img>
   
-  <img align="left" alt="Java-Icon" height="50" width="60" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img>
+  <img align="left" alt="HTML-Icon" style="display:inline-block" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
   
-  <img align="left" alt="Java-Icon" height="50" width="60" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></img>
+  <img align="left" alt="REACT-Icon" style="display:inline-block" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
   
-  <img align="left" alt="Java-Icon" height="50" width="60" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></img>
   
-  <img align="left" alt="Java-Icon" height="50" width="60" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></img>
-   
-  <img align="left" alt="Java-Icon" height="50" width="60" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></img>
   
-  <img align="left" alt="Java-Icon" height="50" width="60" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></img>
+  <img align="left" alt="C-Icon" style="display:inline-block" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
+  
+  
+  
+  
+  <img align="left" alt="CSS-Icon" style="display:inline-block" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
+  
+  <img align="left" alt="JS-Icon" style="display:inline-block" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
+  
+   <img align="left" alt="C-Icon" style="display:inline-block" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></img>
+  </div>
+  
+  
