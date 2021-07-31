@@ -1,7 +1,7 @@
 ### Hi there/Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 I´m Rui
   -I live in :portugal:<br>
-  -:school: I´m Studing Web and Mobile Apps Developmant in Viseu on ESTGV<br>
+  -:school: I´m Studing Web and Mobile Apps Development in Viseu on ESTGV<br>
   -I´m also part of the Deloitte BrightStart :star:<br>
   -I love tech and learning new things makes me happy so becoming a Dev is like having that everyday:computer:<br>
   -I came from another area in my secundary school, I finished my 12th year in Laboratiorial Analisys :test_tube:
