@@ -23,15 +23,19 @@ I'm Rui
 
 ### My Skills
 <div>
-  <img align="left" alt="Python" style="display:inline-block" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="left" alt="Android" style="display:inline-block" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img align="left" alt="HTML" style="display:inline-block" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="left" alt="React" style="display:inline-block" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="left" alt="C" style="display:inline-block" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="left" alt="CSS" style="display:inline-block" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="left" alt="Java" style="display:inline-block" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="left" alt="Express.js" style="display:inline-block" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
-  <img align="left" alt="OutSystems Traditional" style="display:inline-block" src="https://img.shields.io/badge/OutSystems%20Traditional-EF2D5E?style=for-the-badge&logo=outsystems&logoColor=white">
-  <img align="left" alt="OutSystems Reactive" style="display:inline-block" src="https://img.shields.io/badge/OutSystems%20Reactive-EF2D5E?style=for-the-badge&logo=outsystems&logoColor=white">
-  <img align="left" alt="OutSystems Mobile" style="display:inline-block" src="https://img.shields.io/badge/OutSystems%20Mobile-EF2D5E?style=for-the-badge&logo=outsystems&logoColor=white">
-</div>
+    <img align="left" alt="Python" style="display:inline-block" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="left" alt="Android" style="display:inline-block" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img align="left" alt="HTML" style="display:inline-block" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="left" alt="React" style="display:inline-block" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="left" alt="C" style="display:inline-block" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="left" alt="CSS" style="display:inline-block" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="left" alt="Java" style="display:inline-block" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img align="left" alt="Express.js" style="display:inline-block" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
+  </div>
+  <div style="margin-top: 10px">
+    <img align="left" alt="OutSystems Traditional" style="display:inline-block" src="https://img.shields.io/badge/OutSystems%20Traditional-EF2D5E?style=for-the-badge&logo=outsystems&logoColor=white">
+    <img align="left" alt="OutSystems Reactive" style="display:inline-block" src="https://img.shields.io/badge/OutSystems%20Reactive-EF2D5E?style=for-the-badge&logo=outsystems&logoColor=white">
+    <img align="left" alt="OutSystems Mobile" style="display:inline-block" src="https://img.shields.io/badge/OutSystems%20Mobile-EF2D5E?style=for-the-badge&logo=outsystems&logoColor=white">    
+  </div>
+
+
