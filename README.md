@@ -25,9 +25,9 @@ I'm Rui
 <img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"><br>
+<img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"><br>
+<img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
 <img align="left" alt="OutSystems Traditional" src="https://img.shields.io/badge/OutSystems%20Traditional-EF2D5E?style=for-the-badge&logo=outsystems&logoColor=white">
 <img align="left" alt="OutSystems Reactive" src="https://img.shields.io/badge/OutSystems%20Reactive-EF2D5E?style=for-the-badge&logo=outsystems&logoColor=white">
 <img align="left" alt="OutSystems Mobile" src="https://img.shields.io/badge/OutSystems%20Mobile-EF2D5E?style=for-the-badge&logo=outsystems&logoColor=white">
