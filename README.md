@@ -2,7 +2,8 @@
 I'm Rui
 
 ### Home
-- I live in Viseu, Portugal 🇵🇹.
+- I live in Viseu, Portugal. <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal Flag" width="25" height="20">
+
   
 ---
 
