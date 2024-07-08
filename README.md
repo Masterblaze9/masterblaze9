@@ -2,8 +2,8 @@
 I'm Rui
 
 ### Home
-- I live in Viseu, Portugal :portugal:.
-
+- I live in Viseu, Portugal 🇵🇹.
+  
 ---
 
 ### Hobbies and Interests
