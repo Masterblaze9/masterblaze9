@@ -23,17 +23,13 @@ I'm Rui. Welcome to my GitHub profile where I share my projects and insights on 
 - **University:**
   - Higher Professional Technical Course in Web and Mobile Development from ESTGV :school:.
   - Currently in the final year of the Computer Science course at ESTGV.
-  - Participating in the Deloitte BrightStart program since 2020 :star:.
+  - Participated in the Deloitte BrightStart program from 2020 to 2024 :star:.
 
 ---
 
 ### Professional Experience
 
-- **Quality Control Analyst (Pharmaceutical Company):**
-  - Worked for three and a half years ensuring product quality during production.
-  - Developed strong interpersonal skills, conflict resolution, and problem-solving abilities.
-
-- **Deloitte (2020 - Present):**
+- **Deloitte (2021 - 2024):**
   - Specializing in Outsystems development (Traditional, Reactive, Mobile).
   - Engaged in diverse projects across various domains, focusing on delivering high-quality results.
   - Proficient in Agile methodologies, particularly Scrum.
